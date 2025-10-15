@@ -58,6 +58,16 @@ For slacker tasks you may want to verbally explain "It's making me turn off your
 - Call of Nature
 - Refreshment Recess
 
+## 🤝 Contributing
+
+We welcome contributions! Feel free to:
+- Add new authentic game tasks
+- Improve the UI/UX
+- Suggest new features
+- Report bugs
+
+For simple task edits/suggestions, feel free to write out an "issue" instead of sending a pull request and I'll get around to it ASAP.
+
 ## Disclaimer
 
 This is a fan-made tool and not officially affiliated with the game developers. Use responsibly!
