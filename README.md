@@ -24,6 +24,10 @@ A Python application that generates authentic task lists from the game "Dale & D
    ```
 4. Run `python Task_Generator.py`
 
+## Installation (Alternative)
+1. Clone this repository
+2. Run "Task_Generator.exe" from inside of the "Task_Generator_EXE" folder
+
 ## Usage
 
 Run the application and keep the window visible on your screen. Click "Generate New Tasks" to get a fresh set of 3 tasks. The color coding helps you identify which tasks are actual work (blue) and which are slacker activities (red). 
