@@ -1,6 +1,6 @@
 # <img width="50" height="50" alt="icon" src="https://github.com/user-attachments/assets/e67a6b93-2717-413e-8f19-6a4bfd29b8ae" /> Dale & Dawson Task Generator
 
-A Python Tkinter application that generates authentic task lists from the game "Dale & Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
+A Python application that generates authentic task lists from the game "Dale & Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
 <p align="center">
   <img width="397" height="479" alt="image" src="https://github.com/user-attachments/assets/58042d85-a3a2-4e75-852e-9f00e204a26b" />
   <img width="397" height="479" alt="image" src="https://github.com/user-attachments/assets/1a0bbe61-5bdc-4938-a3bf-9da1f9fbf7eb" />
