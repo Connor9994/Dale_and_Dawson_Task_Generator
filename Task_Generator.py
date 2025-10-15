@@ -162,6 +162,7 @@ class TaskGeneratorApp:
         self.root.title("Dale & Dawson Task Generator - Slacker Edition")
         self.root.geometry("700x750")
         self.root.resizable(False, False)
+        root.iconbitmap("icon.png")
 
         # Set background color to match office theme
         self.root.configure(bg='#f0f0f0')
