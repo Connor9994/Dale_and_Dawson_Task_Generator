@@ -2,6 +2,7 @@
 
 A Python Tkinter application that generates authentic task lists from the game "Dale & Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
 
+
 ## Features
 
 - **Authentic Game Tasks**: Uses real task names and descriptions from the actual game
@@ -14,7 +15,7 @@ A Python Tkinter application that generates authentic task lists from the game "
 
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository
-3. Run `python D&D_Task_Generator.py`
+3. Run `python Task_Generator.py`
 
 ## Usage
 
