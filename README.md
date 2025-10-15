@@ -18,7 +18,11 @@ A Python Tkinter application that generates authentic task lists from the game "
 
 1. Ensure you have Python 3.6+ installed
 2. Clone this repository
-3. Run `python Task_Generator.py`
+3. **Install the Dependency:**
+   ```bash
+   pip install Pillow
+   ```
+4. Run `python Task_Generator.py`
 
 ## Usage
 
