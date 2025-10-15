@@ -1,2 +1,51 @@
-# Dale-Dawson-Task-Generator---Slacker-Edition
-A Python Tkinter application that generates authentic task lists from the game "Dale &amp; Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
+# Dale & Dawson Task Generator
+
+A Python Tkinter application that generates authentic task lists from the game "Dale & Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
+
+## Features
+
+- **Authentic Game Tasks**: Uses real task names and descriptions from the actual game
+- **Smart Task Selection**: Automatically limits slacker tasks to maximum 1 per generation
+- **Visual Task Coding**: Blue for specialist tasks, Red for slacker tasks
+- **Professional UI**: Clean, office-appropriate interface
+- **One-Click Generation**: Refresh tasks instantly
+
+## Installation
+
+1. Ensure you have Python 3.6+ installed
+2. Clone this repository
+3. Run `python D&D_Task_Generator.py`
+
+## Usage
+
+Run the application and keep the window visible on your screen. Click "Generate New Tasks" to get a fresh set of 3 tasks. The color coding helps you identify which tasks are actual work (blue) and which are slacker activities (red). 
+
+For slacker tasks you may want to verbally explain "It's making me turn off your antivirus, but I'm going to turn it right back on, okay?" 
+
+## Task Lists
+
+**Specialist Tasks**: 
+- Back to basics
+- Cats also need to eat!
+- Doc Dispatch
+- Duplicate Dispatch
+- Fresh Firmware
+- OCD
+- Operation Shred
+- Ream Reload
+- Report Relay
+- Sales Confirmation
+- Warehouse Wishlist
+- Where's the janitor?
+- Wipe Assistance
+
+**Slacker Tasks**: 
+- Caffeine Boost
+- The Mines Won't Sweep Themselves!
+- I'm a Cat Person!
+- Call of Nature
+- Refreshment Recess
+
+## Disclaimer
+
+This is a fan-made tool and not officially affiliated with the game developers. Use responsibly!
