@@ -67,7 +67,3 @@ We welcome contributions! Feel free to:
 - Report bugs
 
 For simple task edits/suggestions, feel free to write out an "issue" instead of sending a pull request and I'll get around to it ASAP.
-
-## Disclaimer
-
-This is a fan-made tool and not officially affiliated with the game developers. Use responsibly!
