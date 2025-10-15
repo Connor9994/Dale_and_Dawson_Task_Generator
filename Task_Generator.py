@@ -1,6 +1,7 @@
 import tkinter as tk
 import random
 from tkinter import font
+from PIL import Image, ImageTk
 
 # Comprehensive list of Specialist Tasks (Blue Box) - tasks that only normal specialists get
 specialist_tasks = [
@@ -159,10 +160,12 @@ slacking_tasks = [
 class TaskGeneratorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Dale & Dawson Task Generator - Slacker Edition")
+        self.root.title("Dale & Dawson Task Generator")
         self.root.geometry("700x750")
         self.root.resizable(False, False)
-        root.iconbitmap("icon.png")
+        ico = Image.open('icon.png')
+        photo = ImageTk.PhotoImage(ico)
+        root.wm_iconphoto(False, photo)
 
         # Set background color to match office theme
         self.root.configure(bg='#f0f0f0')
