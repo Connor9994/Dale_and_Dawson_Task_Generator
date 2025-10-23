@@ -1,5 +1,7 @@
 # <img width="50" height="50" alt="icon" src="https://github.com/user-attachments/assets/e67a6b93-2717-413e-8f19-6a4bfd29b8ae" /> Dale & Dawson Task Generator
 
+![GitHub stars](https://img.shields.io/github/stars/Connor9994/Dale_and_Dawson_Task_Generator?style=social) ![GitHub forks](https://img.shields.io/github/forks/Connor9994/Dale_and_Dawson_Task_Generator?style=social) ![GitHub issues](https://img.shields.io/github/issues/Connor9994/Dale_and_Dawson_Task_Generator) 
+
 A Python application that generates authentic task lists from the game "Dale & Dawson Stationery Supplies" to help players maintain their cover as normal specialists while secretly slacking.
 <p align="center">
   <img width="397" height="479" alt="image" src="https://github.com/user-attachments/assets/58042d85-a3a2-4e75-852e-9f00e204a26b" />
